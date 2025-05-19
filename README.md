@@ -1,3 +1,11 @@
+## Repositório do backend 
+https://github.com/mcrhistianrs/coodesh-backend
+
+## Repositório do frontend 
+https://github.com/mcrhistianrs/coodesh-frontend
+
+
+
 # Fullstack Challenge - Dictionary
 
 ## Introdução
